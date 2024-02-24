@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Bulgaria/Germany
 * ✉️  You can contact me at [deeperffect@gmail.com](mailto:deeperffect@gmail.com)
 * 🚀  I'm currently working on [a techwear e-commerce platform](http://wearhouse.vercel.app)
-* 🧠  I'm learning React Native and improving my web design skills overall
+* 🧠  I'm learning TypeScript and React Native as well as improving my web design skills overall
 * ⚡  I do 3D Modelling and sculpting on the side
 
 ### Skills
